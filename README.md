@@ -6,3 +6,4 @@
 
 ### Collaborateurs :
 + Clément Guérin > https://github.com/ClementGuerin
++ Dimitri Fouque > https://github.com/Nyroux
